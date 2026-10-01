@@ -1,0 +1,26 @@
+{
+  "repo": "actual-multiple-monitors-pro",
+  "product": "Actual Multiple Monitors Pro",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "system-tools",
+  "topics": [
+    "actual-multiple-monitors-pro",
+    "actual-desktop",
+    "actual-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "zentool.art"
+}
